@@ -1,4 +1,4 @@
-public class Faltu {
+public class First {
     public static void main(String[] args) {  // Main method to execute the program
         int a = 65;  // Initialize variable a
         int b = 48;  // Initialize variable b
@@ -17,3 +17,4 @@ public class Faltu {
 
     }
 }
+
